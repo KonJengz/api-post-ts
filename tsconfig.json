@@ -14,8 +14,7 @@
     // Paths
     "baseUrl": "./src",
     "paths": {
-      "@/*": ["*"],
-      "@generated/prisma": ["../../generated/prisma"] // Adjust this based on your actual path
+      "@/*": ["*"]
     },
 
     // Import
